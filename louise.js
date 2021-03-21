@@ -2,7 +2,7 @@ getGrades()
 function getGrades(){
 
 }
-    var getGrades=56;
+    var getGrades="one";
 
 if(getGrades>=80){
     console.log("A");
